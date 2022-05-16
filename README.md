@@ -1,0 +1,2 @@
+# bebop_heading_continuous_rotation
+Translation with continuous heading rotation
