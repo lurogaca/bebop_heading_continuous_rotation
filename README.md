@@ -1,5 +1,5 @@
 # bebop_heading_continuous_rotation
-* In this program, the drone will traslate with coninuous heading rotation
+* In this program, the drone will traslate with continuous heading rotation
 * In order to run the Autonomous Program, two networks are required in order to connect to the motion capture system and drone, plug in USB WIFI Adapter ( we used LYNEC 150 Mbps)
 
 -> Connect to the Optitrack network  
